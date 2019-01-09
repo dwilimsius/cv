@@ -1,0 +1,118 @@
+body {
+  margin: 0px;
+  text-align: center;
+  color: #3a0088;
+}
+
+h1 {
+  margin-top: 0px;
+  font-family: 'Share Tech Mono', monospace;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Share Tech Mono', monospace;
+  color: #11999E;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Coiny', cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/******************** CLASS ********************/
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 100px;
+  background-color: #7efaff;
+}
+
+.middle-container {
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  bottom: 450px;
+}
+
+.middle-cloud {
+  position: absolute;
+  right: 450px;
+  bottom: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.about-me {
+  width: 50%;
+  margin: 100px auto;
+}
+
+.my-skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.my-experienced {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.nav-contact {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.top-subtitle {
+  font-weight: normal;
+  line-height: 2;
+}
+
+.exp-img {
+  width: 25%;
+  float: right;
+}
+
+.contact-link {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#copyright {
+  color: white;
+  font-family: 'Coiny', cursive;
+}
+
+.contact-button {
+  background-color: #7efaff;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
